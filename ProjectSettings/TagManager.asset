@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Enemy
+  - Tower
+  - BuildSpot
+  - Avatar
+  - Field
+  - TeleportPad
   layers:
   - Default
   - TransparentFX
